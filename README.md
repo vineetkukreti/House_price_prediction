@@ -54,7 +54,7 @@ Contributions are welcome! If you have suggestions, feature requests, or want to
 This project is licensed under the [MIT License](LICENSE).
 
 ## Author
-[Your Name] - [Your Website/Blog](Optional)
+[Vineet Kukreti] - [vineetkukreti.rocks](Optional)
 
 ## Acknowledgements
 - Kaggle for providing the dataset.
