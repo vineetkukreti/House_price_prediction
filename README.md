@@ -1,5 +1,8 @@
 # House Price Prediction Project
 
+![Cost of Housing](https://media.gettyimages.com/id/1250312462/photo/cost-of-housing.jpg?s=612x612&w=0&k=20&c=iDCmeGGsHw4GAgnApK9Cclihhp-JLhM6DWaK8Y5q5Zg=)
+
+
 ## Overview
 This project aims to predict house prices using machine learning techniques. It analyzes various factors that influence the sale price of a house and builds predictive models to estimate prices accurately.
 
@@ -33,7 +36,7 @@ The project utilizes the "House Prices: Advanced Regression Techniques" dataset,
 
 ## Usage
 1. **Requirements:** 
-   - Python 3.x
+   - Python 3.11.5
    - Required libraries: NumPy, pandas, scikit-learn, XGBoost, LightGBM, etc. (install using `pip install -r requirements.txt`)
 
 2. **Instructions:**
