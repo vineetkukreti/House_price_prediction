@@ -572,6 +572,7 @@ SaleCondition: Condition of sale
 - `models/`: Directory to store trained models.
 - `submission.csv`: CSV file containing predicted house prices for submission.
 
+
 ## Contribution
 Contributions are welcome! If you have suggestions, feature requests, or want to report bugs, please open an issue or submit a pull request.
 
