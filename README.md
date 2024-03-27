@@ -585,3 +585,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgements
 - Kaggle for providing the dataset.
 - Open-source libraries and communities for valuable resources and support.
+
+## Citation
+- Anna Montoya, DataCanary. (2016). House Prices 
+- Advanced Regression Techniques. Kaggle. https://kaggle.com/competitions/house-prices-advanced-regression-techniques
